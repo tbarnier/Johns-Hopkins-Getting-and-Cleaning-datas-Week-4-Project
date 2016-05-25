@@ -11,6 +11,7 @@ The information source is located at
 
 https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
 
+
 This assignment is about producing a stripped version of this large dataset.
 
 From the original 561 variables, we focused on the 'sole' "mean" and 'standard deviation columns (list at the end of document)
